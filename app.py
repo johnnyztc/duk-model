@@ -142,7 +142,7 @@ description = 'Duke Energy Carolinas is a subsidiary of Duke Energy, one of the 
 # In[8]:
 
 
-model_description='The DUK forecasting model was trained on historical load and weather data    from 2015/7-2023/2. Weather readings were from VisualCrossing.'
+model_description='The DUK forecasting model was trained on historical load and weather data    from 2015/7-2023/2. Weather readings are from VisualCrossing.'
 
 
 # In[9]:
