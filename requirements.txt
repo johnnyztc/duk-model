@@ -3,4 +3,15 @@ dash_bootstrap_components
 pandas
 requests
 scikit_learn
+dash_tools
+dash_core_components
+dash_html_components
+matplotlib
+numpy
+pandas
+plotly
+pytz
+seaborn
+statsmodels
+xgboost
 gunicorn
