@@ -54,7 +54,7 @@ TEMPLATE = 'plotly_white'
 # In[4]:
 
 
-df_latest_36 = pd.read_csv('https://raw.githubusercontent.com/johnnyztc/duk-data/main/df_latest_36.csv')
+df_latest_36 = pd.read_csv('df_latest_36.csv')
 df_latest_36['Datetime'] = pd.to_datetime(df_latest_36['Datetime'])
 df_latest_36.set_index('Datetime',inplace=True)
 annual_peak_2023 = 18119
@@ -63,7 +63,7 @@ annual_peak_2023 = 18119
 # In[4]:
 
 
-duk_annual_peak = pd.read_csv('https://raw.githubusercontent.com/johnnyztc/duk-data/main/duk_annual_peak.csv')
+duk_annual_peak = pd.read_csv('duk_annual_peak.csv')
 duk_annual_peak['Datetime'] = pd.to_datetime(duk_annual_peak['Datetime'])
 # duk_annual_peak.set_index('Datetime',inplace = True)
 duk_annual_peak
