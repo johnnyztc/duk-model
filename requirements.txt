@@ -14,5 +14,4 @@ pytz
 seaborn
 statsmodels
 xgboost
-datetime
 gunicorn

@@ -1,4 +1,4 @@
-,demand,prediction,prediction_EIA,actual_temp,forecasted_temp
+Datetime,demand,prediction,prediction_EIA,actual_temp,forecasted_temp
 2023-03-26 22:00:00,9923.0,10282.668,10400.0,54.18181818181817,
 2023-03-26 23:00:00,9190.0,9548.815,9544.0,52.8,
 2023-03-27 00:00:00,8651.0,9119.736,8766.0,53.3,
